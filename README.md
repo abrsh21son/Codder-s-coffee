@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 ![image alt](https://github.com/abrsh21son/Codder-s-coffee/blob/main/s1.png?raw=true)
 ![image alt](https://github.com/abrsh21son/Codder-s-coffee/blob/main/s2.png?raw=true)
 ![image alt](https://github.com/abrsh21son/Codder-s-coffee/blob/main/53.png?raw=true)
+![image alt](https://github.com/abrsh21son/Codder-s-coffee/blob/main/s4.png?raw=true)
